@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>
+      Ομάδες
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list>
+    <ion-item *ngFor="let item of items">
+      <ion-thumbnail *ngIf="item.teamImage" item-left>
+        <img src="{{ item.teamImage }}">
+      </ion-thumbnail>
+      <h2>{{ item.teamName }}</h2>
+      <p>
+        <ion-icon name="calendar">&nbsp;{{ item.teamRating }}</ion-icon>
+      </p>
+      <button ion-button clear item-right (click)="viewItem(item)">ΠΡΟΒΟΛΗ</button>
+    </ion-item>
+  </ion-list>
+</ion-content>
