@@ -1,0 +1,17 @@
+[
+  {
+    "teamName": "Gangsters",
+    "teamRating": 48,
+    "teamImage": "http://res.cloudinary.com/nickkofo/image/upload/v1496517953/sample.jpg"
+  },
+  {
+    "teamName": "Πελαργοί",
+    "teamRating": 12,
+    "teamImage": "https://www.w3schools.com/css/img_fjords.jpg"
+  },
+  {
+    "teamName": "Παν Μάρκετ",
+    "teamRating": 67,
+    "teamImage": "http://www.fbschool.org/_assets/images/basketball.jpg"
+  }
+]
