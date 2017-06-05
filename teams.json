@@ -1,22 +1,27 @@
 [
   {
     "teamName": "Gangsters",
-    "teamRating": 48,
-    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161003_180354_t0hmdv.jpg?alt=media&token=fd740651-9583-406a-bb66-30c289dcda76"
+    "teamRating": 30,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161003_180354_t0hmdv.jpg?alt=media&token=538642f0-1064-47a1-9c58-5098ea0846e3"
   },
   {
-    "teamName": "Πελαργοί",
-    "teamRating": 12,
-    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161010_185711_norjvc.jpg?alt=media&token=3390eed3-d572-4f22-b85b-289adcf6666f"
+    "teamName": "Δίας",
+    "teamRating": 28,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/DIAS.jpg?alt=media&token=5a34c7a5-dd83-4ec4-8bb9-e71f3014d85b"
   },
   {
-    "teamName": "Παν Μάρκετ",
-    "teamRating": 67,
-    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161010_220035_gjbbju.jpg?alt=media&token=f2eb3729-6dc1-4af3-8e6c-eff32f82305e"
+    "teamName": "Juice box - Εν κήπο - Πελαργοί",
+    "teamRating": 28,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161010_185711_norjvc.jpg?alt=media&token=eb3e10ff-b008-4693-b67e-d18bbcda0ceb"
+  },
+  {
+    "teamName": "Παν μάρκετ",
+    "teamRating": 28,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161010_220035_gjbbju.jpg?alt=media&token=55f2e95a-20b6-4b1e-b074-e739dd395be8"
   },
   {
     "teamName": "Σκούταρι Toyota Ουστριάς",
-    "teamRating": 55,
+    "teamRating": 26,
     "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/SKOUTARI.jpg?alt=media&token=82758902-7c6d-4877-adca-6e6c5ab969c3"
   }
 ]
