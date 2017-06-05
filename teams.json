@@ -2,16 +2,16 @@
   {
     "teamName": "Gangsters",
     "teamRating": 48,
-    "teamImage": "http://res.cloudinary.com/nickkofo/image/upload/v1496592021/20161003_180354_t0hmdv.jpg"
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161003_180354_t0hmdv.jpg?alt=media&token=fd740651-9583-406a-bb66-30c289dcda76"
   },
   {
     "teamName": "Πελαργοί",
     "teamRating": 12,
-    "teamImage": "http://res.cloudinary.com/nickkofo/image/upload/v1496592020/20161010_185711_norjvc.jpg"
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161010_185711_norjvc.jpg?alt=media&token=3390eed3-d572-4f22-b85b-289adcf6666f"
   },
   {
     "teamName": "Παν Μάρκετ",
     "teamRating": 67,
-    "teamImage": "http://res.cloudinary.com/nickkofo/image/upload/v1496592021/20161010_220035_gjbbju.jpg"
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161010_220035_gjbbju.jpg?alt=media&token=f2eb3729-6dc1-4af3-8e6c-eff32f82305e"
   }
 ]
