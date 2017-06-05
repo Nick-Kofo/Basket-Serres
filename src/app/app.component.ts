@@ -3,11 +3,12 @@ import { Platform } from 'ionic-angular';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { TeamsService } from './services/teams.service';
+import { ScorersService } from './services/scorers.service';
 import { TabsPage } from '../pages/tabs/tabs';
 
 @Component({
   templateUrl: 'app.html',
-  providers: [TeamsService]
+  providers: [TeamsService, ScorersService],
 })
 export class MyApp {
   rootPage:any = TabsPage;

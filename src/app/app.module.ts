@@ -6,7 +6,7 @@ import { MyApp } from './app.component';
 
 import { TabsPage } from '../pages/tabs/tabs';
 import { TeamsPage } from '../pages/teams/teams';
-import { PlayersPage } from '../pages/players/players';
+import { ScorersPage } from '../pages/scorers/scorers';
 import { DetailsPage } from '../pages/details/details';
 
 import { StatusBar } from '@ionic-native/status-bar';
@@ -17,7 +17,7 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     MyApp,
     TabsPage,
     TeamsPage,
-    PlayersPage,
+    ScorersPage,
     DetailsPage
   ],
   imports: [
@@ -30,7 +30,7 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     MyApp,
     TabsPage,
     TeamsPage,
-    PlayersPage,
+    ScorersPage,
     DetailsPage
   ],
   providers: [

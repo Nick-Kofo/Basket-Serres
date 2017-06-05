@@ -1,0 +1,17 @@
+[
+  {
+    "playerName": "Ιωαννίδης",
+    "playerPoints": 444,
+    "playerTeam": "Gangsters"
+  },
+  {
+    "playerName": "Τζελέπης",
+    "playerPoints": 288,
+    "playerTeam": "Βullets"
+  },
+  {
+    "playerName": "Τσελεγγίδης",
+    "playerPoints": 233,
+    "playerTeam": "Βισάλτες"
+  }
+]
