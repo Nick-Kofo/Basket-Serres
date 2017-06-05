@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
-import { ScorersService } from '../../app/services/scorers.service';
+import { ApiService } from '../../app/services/api.service';
 
 @Component({
   selector: 'scorers',
@@ -8,7 +8,7 @@ import { ScorersService } from '../../app/services/scorers.service';
 })
 export class ScorersPage {
   items: any
-  constructor(public navCtrl: NavController, private scorersService: ScorersService) {
+  constructor(public navCtrl: NavController, private apiService: ApiService) {
 
   }
 
@@ -17,7 +17,7 @@ export class ScorersPage {
   }
 
   getScorers() {
-    this.scorersService.getScorers().subscribe(response => {
+    this.apiService.getScorers().subscribe(response => {
       this.items = response;
     });
   }

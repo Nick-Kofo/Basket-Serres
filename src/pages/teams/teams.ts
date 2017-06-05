@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
-import { TeamsService } from '../../app/services/teams.service';
+import { ApiService } from '../../app/services/api.service';
 import { DetailsPage } from '../details/details';
 
 @Component({
@@ -9,7 +9,7 @@ import { DetailsPage } from '../details/details';
 })
 export class TeamsPage {
   items: any
-  constructor(public navCtrl: NavController, private teamsService: TeamsService) {
+  constructor(public navCtrl: NavController, private apiService: ApiService) {
 
   }
 
@@ -18,7 +18,7 @@ export class TeamsPage {
   }
 
   getTeams() {
-    this.teamsService.getTeams().subscribe(response => {
+    this.apiService.getTeams().subscribe(response => {
       this.items = response;
     });
   }
