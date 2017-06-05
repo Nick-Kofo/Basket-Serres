@@ -10,7 +10,7 @@
     "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/DIAS.jpg?alt=media&token=5a34c7a5-dd83-4ec4-8bb9-e71f3014d85b"
   },
   {
-    "teamName": "Juice box - Εν κήπο - Πελαργοί",
+    "teamName": "Juice-box Εν-κήπο Πελαργοί",
     "teamRating": 28,
     "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161010_185711_norjvc.jpg?alt=media&token=eb3e10ff-b008-4693-b67e-d18bbcda0ceb"
   },
@@ -23,5 +23,55 @@
     "teamName": "Σκούταρι Toyota Ουστριάς",
     "teamRating": 26,
     "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/SKOUTARI.jpg?alt=media&token=82758902-7c6d-4877-adca-6e6c5ab969c3"
+  },
+  {
+    "teamName": "Red frogs",
+    "teamRating": 24,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161003_201044.jpg?alt=media&token=cf30c575-28cd-48ba-bcd0-9e133f589262"
+  },
+  {
+    "teamName": "Cavakliers",
+    "teamRating": 22,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161010_185354.jpg?alt=media&token=150bbb0c-1237-47e2-aae1-86426b1189a2"
+  },
+  {
+    "teamName": "Fighters",
+    "teamRating": 22,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161003_183927.jpg?alt=media&token=94b7783a-3031-4fe8-9c56-c44536f7dc49"
+  },
+  {
+    "teamName": "Sharks",
+    "teamRating": 21,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161010_170011.jpg?alt=media&token=a80ae99e-6ae7-4238-bd8e-7fca1cc09320"
+  },
+  {
+    "teamName": "Βισάλτες",
+    "teamRating": 20,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/%CE%92%CE%99%CE%A3%CE%91%CE%9B%CE%A4%CE%95%CE%A3.jpg?alt=media&token=6609f2b2-57b9-4d0e-9aae-138b58ce50f1"
+  },
+  {
+    "teamName": "Starks",
+    "teamRating": 20,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161003_220238.jpg?alt=media&token=6e0d109a-23a4-4868-8964-3240667da2a3"
+  },
+  {
+    "teamName": "Bullets",
+    "teamRating": 19,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161010_200646.jpg?alt=media&token=9125bd7c-7896-4a60-ab69-2c0a65999339"
+  },
+  {
+    "teamName": "Bratsaki",
+    "teamRating": 17,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/BRATSAKI.jpg?alt=media&token=7955c90e-d725-4f20-9731-8e00a17dd65b"
+  },
+  {
+    "teamName": "Ρουμελιώτης Delicatessen",
+    "teamRating": 17,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161010_220448.jpg?alt=media&token=477a5e75-9ced-495b-85e8-f6e32695902f"
+  },
+  {
+    "teamName": "Rebels",
+    "teamRating": 17,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/15152509_10211444464806355_71310677_o.jpg?alt=media&token=e2305d6c-bba6-4002-a8bf-7d4630dcc898"
   }
 ]
