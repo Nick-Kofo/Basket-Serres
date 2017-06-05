@@ -13,5 +13,10 @@
     "teamName": "Παν Μάρκετ",
     "teamRating": 67,
     "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/20161010_220035_gjbbju.jpg?alt=media&token=f2eb3729-6dc1-4af3-8e6c-eff32f82305e"
+  },
+  {
+    "teamName": "Σκούταρι Toyota Ουστριάς",
+    "teamRating": 55,
+    "teamImage": "https://firebasestorage.googleapis.com/v0/b/basket-serres.appspot.com/o/SKOUTARI.jpg?alt=media&token=82758902-7c6d-4877-adca-6e6c5ab969c3"
   }
 ]
