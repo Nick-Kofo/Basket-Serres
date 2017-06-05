@@ -13,5 +13,45 @@
     "playerName": "Τσελεγγίδης",
     "playerPoints": 233,
     "playerTeam": "Βισάλτες"
+  },
+  {
+    "playerName": "Τσελεγγίδης",
+    "playerPoints": 233,
+    "playerTeam": "Βισάλτες"
+  },
+  {
+    "playerName": "Τσούλκας",
+    "playerPoints": 204,
+    "playerTeam": "Παν Μάρκετ"
+  },
+  {
+    "playerName": "Νικολούσης",
+    "playerPoints": 197,
+    "playerTeam": "Βισάλτες"
+  },
+  {
+    "playerName": "Γούνας",
+    "playerPoints": 192,
+    "playerTeam": "Fighters"
+  },
+  {
+    "playerName": "Γεωργαντάς",
+    "playerPoints": 191,
+    "playerTeam": "Cavakliers"
+  },
+  {
+    "playerName": "Mάλλος",
+    "playerPoints": 190,
+    "playerTeam": "Starks"
+  },
+  {
+    "playerName": "Τζιμητρόπουλος",
+    "playerPoints": 170,
+    "playerTeam": "ΔΙΑΣ"
+  },
+  {
+    "playerName": "Κακαρίδης",
+    "playerPoints": 161,
+    "playerTeam": "Παν Μάρκετ"
   }
 ]

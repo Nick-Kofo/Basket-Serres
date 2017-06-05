@@ -12,7 +12,7 @@ export class ScorersService {
         this.baseUrl = 'https://raw.githubusercontent.com/Nick-Kofo/Basket-Serres/master/scorers.json'
     }
 
-    getTeams() {
+    getScorers() {
         return this.http.get(this.baseUrl).map(res => res.json());
     }
 }
