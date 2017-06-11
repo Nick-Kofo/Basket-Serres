@@ -7,16 +7,17 @@
 </ion-header>
 
 <ion-content padding>
-  <ion-list>
-    <ion-item *ngFor="let item of items">
-      <ion-thumbnail *ngIf="item.teamImage" item-left>
-        <img src="{{ item.teamImage }}">
-      </ion-thumbnail>
-      <h2>{{ item.teamName }}</h2>
-      <p>
-        <ion-icon name="trophy">&nbsp;{{ item.teamRating }}</ion-icon>
-      </p>
-      <button ion-button clear item-right (click)="viewItem(item)">ΠΡΟΒΟΛΗ</button>
-    </ion-item>
-  </ion-list>
+  <ion-card (click)="viewItem(item)" *ngFor="let item of items">
+    <ion-grid>
+      <ion-row>
+        <ion-col>
+          {{ item.teamName }}
+        </ion-col>
+        <ion-col>
+          <ion-icon name="trophy">&nbsp;{{ item.teamRating }}</ion-icon>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+    <img *ngIf="item.teamImage" src="{{ item.teamImage }}"/>
+  </ion-card>
 </ion-content>

@@ -8,6 +8,7 @@ import { TabsPage } from '../pages/tabs/tabs';
 import { TeamsPage } from '../pages/teams/teams';
 import { ScorersPage } from '../pages/scorers/scorers';
 import { DetailsPage } from '../pages/details/details';
+import { EventsPage } from '../pages/events/events';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -19,7 +20,8 @@ import { Network } from '@ionic-native/network';
     TabsPage,
     TeamsPage,
     ScorersPage,
-    DetailsPage
+    DetailsPage,
+    EventsPage
   ],
   imports: [
     BrowserModule,
@@ -32,7 +34,8 @@ import { Network } from '@ionic-native/network';
     TabsPage,
     TeamsPage,
     ScorersPage,
-    DetailsPage
+    DetailsPage,
+    EventsPage
   ],
   providers: [
     StatusBar,
